@@ -1,0 +1,15 @@
+﻿.factorial
+{
+	display:flex;
+}
+.factorial h3
+{
+	margin:16px;
+}
+.factorial input
+{
+	font-size:24px;
+	width:128px;
+	text-align:right;
+}
+
