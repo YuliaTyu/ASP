@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor", "Blazor\Blazor.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOlist", "TODOlist\TODOlist.csproj", "{A3B9A2D8-6EE4-4537-9A64-5F5FBFC2BB3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies", "Movies\Movies.csproj", "{F76A9443-D422-4120-93AE-7BE3ADE924FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A3B9A2D8-6EE4-4537-9A64-5F5FBFC2BB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3B9A2D8-6EE4-4537-9A64-5F5FBFC2BB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3B9A2D8-6EE4-4537-9A64-5F5FBFC2BB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76A9443-D422-4120-93AE-7BE3ADE924FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76A9443-D422-4120-93AE-7BE3ADE924FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76A9443-D422-4120-93AE-7BE3ADE924FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76A9443-D422-4120-93AE-7BE3ADE924FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
