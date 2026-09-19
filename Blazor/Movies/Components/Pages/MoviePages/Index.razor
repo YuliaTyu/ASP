@@ -26,7 +26,8 @@
     @* <PropertyColumn Property="movie => movie.Title" />  *@
         <TemplateColumn Title="Title"
             Class="movie-title"
-            Sortable="true" SortBy="sortBy">
+            Sortable="true"
+            SortBy="sortBy">
             <a href="@($"movies/details?id={context.Id}")">@context.Title</a>
         </TemplateColumn>
     <PropertyColumn Property="movie => movie.ReleaseDate" />
